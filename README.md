@@ -44,5 +44,5 @@ issue-tracker/
 ├── Back-End/     (Express, MySQL)
 ├── Front-End/    (React + TypeScript)
 ├── .gitignore
-└── README.md (we’ll add)
+└── README.md 
 
